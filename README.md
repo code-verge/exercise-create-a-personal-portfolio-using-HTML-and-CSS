@@ -1,38 +1,34 @@
 # Exercise: Create a personal portfolio using HTML & CSS
 
-
 <details close>
 <summary>Learning Goals</summary>
 <br>
 This exercise allows you to practice and apply the concepts and techniques taught in the course.
 
-- Upon completion of this exercise, you will be able to:
-- Properly structure a webpage using basic HTML tags (head, body, headings, paragraphs, images, and lists)
-- Create and link an external CSS stylesheet with an HTML document.
-- Use various selectors to apply CSS styles to elements on a webpage.
-- Display images in a webpage using HTML img tags.
-- Recognize and understand the use of containers to structure your layout.
-- Submit completed work using Git and GitHub by creating a pull request.
+- Structuring a webpage using fundamental HTML tags.
+- Creating and linking external CSS stylesheets with HTML documents.
+- Applying CSS styles to elements using various selectors.
+- Displaying images using HTML img tags.
+- Organizing your webpage layout using containers.
+- Submitting your work using Git and GitHub by creating pull requests.
 </details>
 
 ## Introduction
 
-We've been diving into the world of HTML and CSS, and now it is time to put those skills to good use. Let's showcase our background, skills, and projects in a portfolio - a ticket to show the world our journey into the world of technology!
+We have been exploring HTML and CSS, and now it's time to use those skills practically. In this exercise, you will create a portfolio showcasing your background, skills, and projects – a gateway to displaying your journey into the tech world!
 
-## Submission
+## Getting Started
+Follow the instructions below to get started:
 
-Upon completion, run the following commands:
-
-```
-git add .
-git commit -m "initial portfolio website"
-git push origin main
-```
-
-Create a Pull Request and submit the Link to your Pull Request. 
+1. Fork this Repository.
+2. Clone the Repository to your computer.
+3. Make sure to structure your HTML file with appropriate elements.
+4. Organize your CSS stylesheet for maintainability. Separate sections and comment as necessary.
+5. Use ID and class selectors to apply CSS styles to elements on your webpage.
+6. Develop each section described under "Deliverable" below.
 
 ## Instructions
-No starter code provided. You will create your own HTML and CSS files from scratch. The HTML file should link with the CSS file you're going to create. 
+No starter code provided. You will create a simple personal portfolio using HTML and CSS. The HTML file should link with the external CSS file.
 
 ## Deliverable
 You should create the following sections on the page:
@@ -45,7 +41,19 @@ You should create the following sections on the page:
 6. Contact Me: Include information on how people can reach you (you can use dummy contact info for now if you prefer to keep your privacy while practicing).
 7. Footer: This could include copyright information, date, and any other links or small bits of info you'd like to include.
 
-## Extra Practice
+## Submission
+
+Upon completion, run the following commands:
+
+```
+git add .
+git commit -m "initial portfolio website"
+git push origin main
+```
+
+Create a Pull Request and submit the Link to your Pull Request in the LMS. 
+
+## Bonus
 If you still have time and the energy, let's bring your portfolio to the (public!) world.
 
 We encourage you to use GitHub Pages.
